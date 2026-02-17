@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Online Banking App Threat Model",
+    "owner": "Sarah",
+    "description": "This is an online banking application that allows users to view account balances, \ntransfer funds, pay bills, and manage personal information. The system connects \nto a secure backend server and database, providing authentication and transaction \nsecurity for users.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Zohain",
+    "threatTop": 0
+  }
+}
